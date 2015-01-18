@@ -11,8 +11,8 @@ namespace RömischeZahlenConsole
     {
         static void Main(string[] args)
         {
-            DezimalzahlenWandler test = new DezimalzahlenWandler();
-            var zahl = test.ParseRömischeZahlInDezimal("MDCLXXIX");
+            RömischeZahlenConverter converter = new RömischeZahlenConverter();
+            var zahl = converter.ParseRömischeZahlInDezimal("MDCLXXIX");
             Console.WriteLine(zahl);
 
             Console.ReadKey();
