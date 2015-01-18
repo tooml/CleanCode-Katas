@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RömischeZahlen", "RömischeZahlen\RömischeZahlen.csproj", "{9FA34C65-824A-4FD4-BEF2-FB4AB4B5F500}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RömischeZahlen.Tests", "RömischeZahlen.Tests\RömischeZahlen.Tests.csproj", "{82BA8319-32DC-423E-A78E-8CEFEBF09063}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RömischeZahlenConsole", "RömischeZahlenConsole\RömischeZahlenConsole.csproj", "{61153A7C-6037-4582-B0C1-C466D5D1186C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FA34C65-824A-4FD4-BEF2-FB4AB4B5F500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FA34C65-824A-4FD4-BEF2-FB4AB4B5F500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FA34C65-824A-4FD4-BEF2-FB4AB4B5F500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FA34C65-824A-4FD4-BEF2-FB4AB4B5F500}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82BA8319-32DC-423E-A78E-8CEFEBF09063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82BA8319-32DC-423E-A78E-8CEFEBF09063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82BA8319-32DC-423E-A78E-8CEFEBF09063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82BA8319-32DC-423E-A78E-8CEFEBF09063}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61153A7C-6037-4582-B0C1-C466D5D1186C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61153A7C-6037-4582-B0C1-C466D5D1186C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61153A7C-6037-4582-B0C1-C466D5D1186C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61153A7C-6037-4582-B0C1-C466D5D1186C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

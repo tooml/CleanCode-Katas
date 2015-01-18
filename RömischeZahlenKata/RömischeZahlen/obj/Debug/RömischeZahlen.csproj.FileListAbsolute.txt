@@ -1,0 +1,5 @@
+c:\users\tom\documents\visual studio 2013\Projects\RömischeZahlenKata\RömischeZahlen\bin\Debug\RömischeZahlen.dll
+c:\users\tom\documents\visual studio 2013\Projects\RömischeZahlenKata\RömischeZahlen\bin\Debug\RömischeZahlen.pdb
+c:\users\tom\documents\visual studio 2013\Projects\RömischeZahlenKata\RömischeZahlen\obj\Debug\RömischeZahlen.csprojResolveAssemblyReference.cache
+c:\users\tom\documents\visual studio 2013\Projects\RömischeZahlenKata\RömischeZahlen\obj\Debug\RömischeZahlen.dll
+c:\users\tom\documents\visual studio 2013\Projects\RömischeZahlenKata\RömischeZahlen\obj\Debug\RömischeZahlen.pdb
